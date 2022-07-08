@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79353" started-at="2022-07-08T09:58:14 EDT" finished-at="2022-07-08T09:59:33 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79353" started-at="2022-07-08T09:58:14 EDT" finished-at="2022-07-08T09:59:33 EDT">
+      <class name="testsuite.calculator">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:testsuite.calculator@262b2c86]" name="intialize" is-config="true" duration-ms="3810" started-at="2022-07-08T09:58:14 EDT" finished-at="2022-07-08T09:58:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="Startretirementplan()[pri:0, instance:testsuite.calculator@262b2c86]" name="Startretirementplan" duration-ms="71370" started-at="2022-07-08T09:58:18 EDT" finished-at="2022-07-08T09:59:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startretirementplan -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testsuite.calculator@262b2c86]" name="close" is-config="true" duration-ms="4159" started-at="2022-07-08T09:59:29 EDT" finished-at="2022-07-08T09:59:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testsuite.calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
